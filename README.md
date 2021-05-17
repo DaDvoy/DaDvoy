@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: I wanna be DeVops))
+- ⚡ Fun fact: I have the collection of pins))
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmushroo?darkmode=true)](https://github.com/DaDvoy)

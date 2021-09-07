@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on philosophers
-- 🌱 I’m currently learning pthreads
+- 🔭 I’m currently working on CPP modules
+- 🌱 I’m currently learning OOP(Object-oriented programming)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

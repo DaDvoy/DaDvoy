@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: I have the collection of pins))
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmushroo?darkmode=true)](https://github.com/DaDvoy)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmushroo?lightmode=true)](https://github.com/DaDvoy)

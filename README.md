@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Inception
-- 🌱 I’m currently learning OOP and System Administration
+- 🔭 I’m currently working on IRC(server part)
+- 🌱 I’m currently learning client server communication
 - 📫 How to reach me: DaDvoy(telegram)
 - ⚡ Fun fact: I have the collection of pins))
 <!--/

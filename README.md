@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmushroo?lightmode=true)](https://github.com/DaDvoy)
+<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmushroo?lightmode=true)](https://github.com/DaDvoy) -->

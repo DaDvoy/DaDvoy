@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on IRC
-- 🌱 I’m currently learning client server communication
+- 🔭 I’m currently working on ft_containers
+- 🌱 I’m currently learning containers of CPP(vector, stack, map)
 - 📫 How to reach me: DaDvoy(telegram)
-- ⚡ Fun fact: I have the collection of pins))
+- ⚡ Fun fact: I speak Esperanto a little))
 <!--/
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

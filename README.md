@@ -1,6 +1,6 @@
 #**Hi there 👋**
 
-- 🔭 I’m currently working on ft_containers
+- 🔭 I’m currently working as a DevOps Engineer
 - 🌱 I’m currently learning containers of CPP(vector, stack, map)
 - 📫 How to reach me: DaDvoy(telegram)
 - ⚡ Fun fact: I speak Esperanto a little))

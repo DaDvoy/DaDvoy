@@ -1,14 +1,9 @@
-<body>
-<p align="center">
-
-Hi there 👋
+#**Hi there 👋**
 
 - 🔭 I’m currently working on ft_containers
 - 🌱 I’m currently learning containers of CPP(vector, stack, map)
 - 📫 How to reach me: DaDvoy(telegram)
 - ⚡ Fun fact: I speak Esperanto a little))
-</p>
-</body>
 
 <!--/
 - 👯 I’m looking to collaborate on ...

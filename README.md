@@ -1,14 +1,15 @@
-### Hi there 👋
+<body>
+<p align="center">
 
-<!--
-**DaDvoy/DaDvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on ft_containers
 - 🌱 I’m currently learning containers of CPP(vector, stack, map)
 - 📫 How to reach me: DaDvoy(telegram)
 - ⚡ Fun fact: I speak Esperanto a little))
+</p>
+</body>
+
 <!--/
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-
-<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmushroo?lightmode=true)](https://github.com/DaDvoy) -->
-[![lmushroo's 42 stats](https://badge42.vercel.app/api/v2/cl29dfglc001109laqxpswyuc/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
-
+<body>
+    <p align="center">
+<img  src="https://badge42.vercel.app/api/v2/cl29dfglc001109laqxpswyuc/stats?cursusId=21&coalitionId=104" />
+    </p>
+<p >
+  <img height="190px" src="http://github-readme-streak-stats.herokuapp.com?user=DaDvoy&theme=vue&hide_border=true" />
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDvoy&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=vue&hide_border=true" />
+    </p>
+</body>

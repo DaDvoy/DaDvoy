@@ -1,4 +1,4 @@
-#**Hi there 👋**
+**Hi there 👋**
 
 - 🔭 I’m currently a junior C++ developer
 - 🌱 I’m currently learning C++ and SQL

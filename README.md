@@ -1,7 +1,7 @@
 **Hi there 👋**
 
 - 🔭 I’m currently a junior C++ developer
-- 🌱 I’m currently learning C++ and SQL
+- 🌱 I’m currently learning Golang and SQL
 - 📫 How to reach me: DaDvoy(telegram)
 - ⚡ Fun fact: I speak Esperanto a little))
 

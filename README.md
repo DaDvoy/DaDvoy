@@ -1,11 +1,11 @@
 **Hi there 👋**
 
-- 🔭 I’m currently a junior C++ developer
 - 🌱 I’m currently learning Golang and SQL
 - 📫 How to reach me: DaDvoy(telegram)
 - ⚡ Fun fact: I grow some plants, for example: avocados))
 
 <!--/
+- 🔭 I’m currently a junior C++ developer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
